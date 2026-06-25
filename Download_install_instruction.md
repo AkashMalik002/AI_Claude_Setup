@@ -20,7 +20,11 @@ Step A :-
   }
 }
 5) in VS code terminal -> claude code
-6) Setup done.
+6) Open code install -> curl -fSSL https://opencode.ai/install | bash
+    => also check the command from UI
+   How to check => run the command in VS terminal -> opencode
+   (/model)
+8) Setup done.
 
 -----------------------------
 Step B -> -> New 
@@ -34,4 +38,4 @@ Step B -> -> New
   $env:ANTHROPIC_BASE_URL="https://openrouter.ai/api"; $env:ANTHROPIC_API_KEY="your-openrouter-key"; $env:ANTHROPIC_MODEL="moonshot/kimi-k2.6:free"; claude
 )
 5) We can change the model. VIsiti the OpenRouter Website ans check the required model like Gemma (google/gemma-4-31b-it:free) and update the Model name in step 4.
-=====================================================================================================================================================================
+=======================================================================================
