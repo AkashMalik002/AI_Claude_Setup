@@ -11,7 +11,7 @@ Step A :-
   
 2) Open code install -> zen -> Get Started with zen -> API Key
 3) VS Code, Git Bash & Node js download and install.
-4) in vs code terminal -> code ~/.claude -> New folder will open -> Got to settings.json
+4) in vs code terminal -> code ~/.claude [OR] code $HOME/.claude -> New folder will open -> Got to settings.json
    {
   "env": {
     "ANTHROPIC_BASE_URL": "https://opencode.ai/zen",
