@@ -5,6 +5,7 @@ Step A :-
 1) Install Claude Code =>
   Powershell -> irm https://claude.ai/install.ps1 | iex
   windows cmd -> curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del install.cmd
+  OR irm https://claude.ai/install.ps1 | iex
 
   How to check => claude code (command in terminal)
   
